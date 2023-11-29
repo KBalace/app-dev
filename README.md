@@ -1,4 +1,4 @@
-# My Favourite Series
+# My Favorite Series
 
 ***1. How I met your mother***
 ![download](https://github.com/KBalace/app-dev/assets/152346641/2b0f228e-46ca-4915-b179-5d505901d494)
